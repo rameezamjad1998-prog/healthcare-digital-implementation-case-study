@@ -1,1 +1,80 @@
+# Implementation Plan
+
+This is a simple 30/60/90 day rollout plan for implementing a digital referral and appointment management tool into an NHS outpatient service.
+
+## Days 1-30: Discovery
+
+The first month should be focused on understanding the current service before trying to change it.
+
+Main actions:
+
+* meet admin staff, clinicians, service manager and operational lead
+* understand how referrals currently enter the service
+* map the referral-to-appointment workflow
+* identify existing systems, spreadsheets and manual workarounds
+* understand where delays, errors or duplicated work happen
+* agree baseline metrics
+* identify a small pilot area
+* identify possible super-users or early champions
+
+Key questions:
+
+* where does the biggest delay happen?
+* which staff groups are most affected?
+* what data is reliable?
+* what information is missing from referrals?
+* what workarounds are staff already using?
+* what would make users resist the new tool?
+
+## Days 31-60: Pilot
+
+The second month should focus on a small pilot rather than a full rollout.
+
+Main actions:
+
+* start with one clinic or specialty area
+* train admin users, clinicians and managers around their actual tasks
+* set up a simple issue log
+* run weekly feedback sessions
+* monitor whether users are adopting the tool or reverting to old processes
+* track early metrics such as referral-to-triage time, booking errors and DNA rate
+* feed structured feedback back to the product or configuration team
+
+What I would watch closely:
+
+* are staff actually using the new workflow?
+* are they duplicating work in the old system?
+* are any steps slower than before?
+* are patients being booked correctly?
+* are clinicians getting enough information to triage safely?
+* are managers getting useful visibility?
+
+## Days 61-90: Wider rollout
+
+The final month should focus on scaling only once the pilot is stable.
+
+Main actions:
+
+* expand to more clinics if the pilot is working
+* update training based on pilot feedback
+* create simple playbooks and FAQs
+* review adoption and operational metrics with leadership
+* agree BAU ownership after implementation
+* continue tracking benefits and unresolved risks
+* decide what needs product/configuration improvement
+
+## Success metrics
+
+* referral-to-triage time
+* time from referral to appointment booking
+* DNA / cancellation rate
+* booking error rate
+* clinic utilisation
+* documentation completion time
+* active usage by staff group
+* number of manual workarounds still being used
+
+## Main principle
+
+Implementation should not be treated as complete at go-live. Go-live only means the tool is available. The real test is whether staff use it, trust it, and whether the workflow is measurably better than before.
 
